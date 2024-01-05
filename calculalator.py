@@ -23,5 +23,8 @@ def calculator():
         print(num1*num2)
     elif choice=='4':
         print(num1/num2)
+
+if __name__ == "__main__":
+    calculator()
     
         
